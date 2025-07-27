@@ -5,7 +5,7 @@ The PDF Intelligence Application is designed to extract outlines from PDF docume
 
 ## Project Structure
 pdf-intelligence-app
-├── src
+├── src/v/v
 │   ├── main.py               # Entry point of the application
 │   ├── pdf_extractor.py      # PDF extraction logic
 │   ├── persona_analyzer.py   # Persona analysis logic
